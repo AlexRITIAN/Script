@@ -1,0 +1,6 @@
+[ False ] [ com.lenovo.plm.elois.integration.elois2pi.BPLPriceInfoRetrieve.url ]
+comparsion value = [ http://pipre.lenovo.com:50100/XISOAPAdapter/MessageServlet?channel=:ELOIS:CC_ELOIS_GET_PRICEINFO_SOAP_OUT&amp;version=3.0&amp;Sender.Service=ELOIS&amp;Interface=urn%3Alenovo%3Aelois%3Aget_price%5ESI_BPL_PRICE_INFO_OUT_SYN ]
+current value = [ http://pipre.lenovo.com:50100/XISOAPAdapter/MessageServlet?channel=:ELOIS:CC_ELOIS_GET_PRICEINFO_SOAP_OUT&version=3.0&Sender.Service=ELOIS&Interface=urn%3Alenovo%3Aelois%3Aget_price%5ESI_BPL_PRICE_INFO_OUT_SYN ]
+[ False ] [ com.lenovo.plm.elois.integration.elois2lesc.1confg.ctorule.url ]
+comparsion value = [ http://elois2lesc1config:12110/rule-publisher/api/cto-rules/ ]
+current value = [  http://elois2lesc1config:12110/rule-publisher/api/cto-rules/ ]
